@@ -1,6 +1,6 @@
 ## Introduction
 
-Please read AssignmentReadMe.md for description of the project and folder source-code and plot-png. Below is the explanation of the assignment.
+Please read AssignmentReadMe.md for description of the project and folder sourcCode and plotPng. Below is the explanation of the assignment.
 
 This assignment uses data from
 the <a href="http://archive.ics.uci.edu/ml/">UC Irvine Machine
